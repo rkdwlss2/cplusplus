@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		8DAA8A3427A4145D0031C57E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A3327A4145D0031C57E /* main.cpp */; };
 		8DAA8A3B27A425ED0031C57E /* bojf9654.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A3A27A425ED0031C57E /* bojf9654.cpp */; };
+		8DAA8A3D27A4FF030031C57E /* boj1726.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A3C27A4FF030031C57E /* boj1726.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		8DAA8A3027A4145D0031C57E /* cplusplus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = cplusplus; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DAA8A3327A4145D0031C57E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		8DAA8A3A27A425ED0031C57E /* bojf9654.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bojf9654.cpp; sourceTree = "<group>"; };
+		8DAA8A3C27A4FF030031C57E /* boj1726.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1726.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			isa = PBXGroup;
 			children = (
 				8DAA8A3327A4145D0031C57E /* main.cpp */,
+				8DAA8A3C27A4FF030031C57E /* boj1726.cpp */,
 				8DAA8A3A27A425ED0031C57E /* bojf9654.cpp */,
 			);
 			path = cplusplus;
@@ -122,6 +125,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8DAA8A3D27A4FF030031C57E /* boj1726.cpp in Sources */,
 				8DAA8A3B27A425ED0031C57E /* bojf9654.cpp in Sources */,
 				8DAA8A3427A4145D0031C57E /* main.cpp in Sources */,
 			);
