@@ -10,6 +10,8 @@
 		8DAA8A3427A4145D0031C57E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A3327A4145D0031C57E /* main.cpp */; };
 		8DAA8A3B27A425ED0031C57E /* bojf9654.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A3A27A425ED0031C57E /* bojf9654.cpp */; };
 		8DAA8A3D27A4FF030031C57E /* boj1726.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A3C27A4FF030031C57E /* boj1726.cpp */; };
+		8DAA8A3F27A667E60031C57E /* boj2618.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A3E27A667E50031C57E /* boj2618.cpp */; };
+		8DAA8A4127A7F8020031C57E /* boj1461.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A4027A7F8020031C57E /* boj1461.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +31,8 @@
 		8DAA8A3327A4145D0031C57E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		8DAA8A3A27A425ED0031C57E /* bojf9654.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bojf9654.cpp; sourceTree = "<group>"; };
 		8DAA8A3C27A4FF030031C57E /* boj1726.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1726.cpp; sourceTree = "<group>"; };
+		8DAA8A3E27A667E50031C57E /* boj2618.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2618.cpp; sourceTree = "<group>"; };
+		8DAA8A4027A7F8020031C57E /* boj1461.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1461.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +49,8 @@
 		8DAA8A2727A4145D0031C57E = {
 			isa = PBXGroup;
 			children = (
+				8DAA8A3E27A667E50031C57E /* boj2618.cpp */,
+				8DAA8A4027A7F8020031C57E /* boj1461.cpp */,
 				8DAA8A3227A4145D0031C57E /* cplusplus */,
 				8DAA8A3127A4145D0031C57E /* Products */,
 			);
@@ -125,6 +131,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8DAA8A3F27A667E60031C57E /* boj2618.cpp in Sources */,
+				8DAA8A4127A7F8020031C57E /* boj1461.cpp in Sources */,
 				8DAA8A3D27A4FF030031C57E /* boj1726.cpp in Sources */,
 				8DAA8A3B27A425ED0031C57E /* bojf9654.cpp in Sources */,
 				8DAA8A3427A4145D0031C57E /* main.cpp in Sources */,
