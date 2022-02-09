@@ -21,6 +21,8 @@
 		8DAA8A6227B1557C0031C57E /* boj3109.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A6127B1557C0031C57E /* boj3109.cpp */; };
 		8DAA8A6427B1668F0031C57E /* boj3109kang.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A6327B1668F0031C57E /* boj3109kang.cpp */; };
 		8DAA8A6627B29C990031C57E /* boj1405.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A6527B29C990031C57E /* boj1405.cpp */; };
+		8DAA8A6827B3EE390031C57E /* boj1079.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A6727B3EE390031C57E /* boj1079.cpp */; };
+		8DAA8A6A27B40B940031C57E /* boj11557.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A6927B40B940031C57E /* boj11557.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -51,6 +53,8 @@
 		8DAA8A6127B1557C0031C57E /* boj3109.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj3109.cpp; sourceTree = "<group>"; };
 		8DAA8A6327B1668F0031C57E /* boj3109kang.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj3109kang.cpp; sourceTree = "<group>"; };
 		8DAA8A6527B29C990031C57E /* boj1405.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1405.cpp; sourceTree = "<group>"; };
+		8DAA8A6727B3EE390031C57E /* boj1079.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1079.cpp; sourceTree = "<group>"; };
+		8DAA8A6927B40B940031C57E /* boj11557.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj11557.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +71,8 @@
 		8DAA8A2727A4145D0031C57E = {
 			isa = PBXGroup;
 			children = (
+				8DAA8A6927B40B940031C57E /* boj11557.cpp */,
+				8DAA8A6727B3EE390031C57E /* boj1079.cpp */,
 				8DAA8A6327B1668F0031C57E /* boj3109kang.cpp */,
 				8DAA8A6527B29C990031C57E /* boj1405.cpp */,
 				8DAA8A6127B1557C0031C57E /* boj3109.cpp */,
@@ -169,7 +175,9 @@
 				8DAA8A3D27A4FF030031C57E /* boj1726.cpp in Sources */,
 				8DAA8A3B27A425ED0031C57E /* bojf9654.cpp in Sources */,
 				8DAA8A5C27AEB2B10031C57E /* boj1600.cpp in Sources */,
+				8DAA8A6A27B40B940031C57E /* boj11557.cpp in Sources */,
 				8DAA8A6627B29C990031C57E /* boj1405.cpp in Sources */,
+				8DAA8A6827B3EE390031C57E /* boj1079.cpp in Sources */,
 				8DAA8A3427A4145D0031C57E /* main.cpp in Sources */,
 				8DAA8A5627AA789A0031C57E /* boj7579.cpp in Sources */,
 			);
