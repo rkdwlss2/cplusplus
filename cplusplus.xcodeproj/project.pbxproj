@@ -34,6 +34,7 @@
 		8DAA8A7C27BBEBE10031C57E /* boj14889.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A7B27BBEBE10031C57E /* boj14889.cpp */; };
 		8DAA8A7E27BD36E10031C57E /* boj2931.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A7D27BD36E10031C57E /* boj2931.cpp */; };
 		8DAA8A8027BE77D80031C57E /* boj14499.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A7F27BE77D80031C57E /* boj14499.cpp */; };
+		8DAA8A8227C223310031C57E /* boj17472.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A8127C223310031C57E /* boj17472.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -77,6 +78,7 @@
 		8DAA8A7B27BBEBE10031C57E /* boj14889.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj14889.cpp; sourceTree = "<group>"; };
 		8DAA8A7D27BD36E10031C57E /* boj2931.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2931.cpp; sourceTree = "<group>"; };
 		8DAA8A7F27BE77D80031C57E /* boj14499.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj14499.cpp; sourceTree = "<group>"; };
+		8DAA8A8127C223310031C57E /* boj17472.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj17472.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,6 +95,7 @@
 		8DAA8A2727A4145D0031C57E = {
 			isa = PBXGroup;
 			children = (
+				8DAA8A8127C223310031C57E /* boj17472.cpp */,
 				8DAA8A7F27BE77D80031C57E /* boj14499.cpp */,
 				8DAA8A7D27BD36E10031C57E /* boj2931.cpp */,
 				8DAA8A7B27BBEBE10031C57E /* boj14889.cpp */,
@@ -210,6 +213,7 @@
 				8DAA8A5E27AFA9520031C57E /* boj13975.cpp in Sources */,
 				8DAA8A4127A7F8020031C57E /* boj1461.cpp in Sources */,
 				8DAA8A6E27B68B760031C57E /* boj5176.cpp in Sources */,
+				8DAA8A8227C223310031C57E /* boj17472.cpp in Sources */,
 				8DAA8A7427BA85E50031C57E /* boj1944.cpp in Sources */,
 				8DAA8A7227B92F190031C57E /* boj1535.cpp in Sources */,
 				8DAA8A3D27A4FF030031C57E /* boj1726.cpp in Sources */,
