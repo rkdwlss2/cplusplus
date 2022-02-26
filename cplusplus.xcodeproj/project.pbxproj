@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8D9BBC8727CA651C006EC35B /* boj10173.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9BBC8627CA651C006EC35B /* boj10173.cpp */; };
 		8DAA8A3427A4145D0031C57E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A3327A4145D0031C57E /* main.cpp */; };
 		8DAA8A3B27A425ED0031C57E /* bojf9654.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A3A27A425ED0031C57E /* bojf9654.cpp */; };
 		8DAA8A3D27A4FF030031C57E /* boj1726.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A3C27A4FF030031C57E /* boj1726.cpp */; };
@@ -40,6 +41,7 @@
 		8DAA8A8827C5226C0031C57E /* boj13144-2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A8727C5226C0031C57E /* boj13144-2.cpp */; };
 		8DAA8A8A27C662F30031C57E /* boj15684.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A8927C662F30031C57E /* boj15684.cpp */; };
 		8DAA8A8C27C7B8B80031C57E /* boj18808.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A8B27C7B8B70031C57E /* boj18808.cpp */; };
+		8DAA8A8E27C9125F0031C57E /* boj2355.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A8D27C9125F0031C57E /* boj2355.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -55,6 +57,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8D9BBC8627CA651C006EC35B /* boj10173.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj10173.cpp; sourceTree = "<group>"; };
 		8DAA8A3027A4145D0031C57E /* cplusplus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = cplusplus; sourceTree = BUILT_PRODUCTS_DIR; };
 		8DAA8A3327A4145D0031C57E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		8DAA8A3A27A425ED0031C57E /* bojf9654.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bojf9654.cpp; sourceTree = "<group>"; };
@@ -89,6 +92,7 @@
 		8DAA8A8727C5226C0031C57E /* boj13144-2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "boj13144-2.cpp"; sourceTree = "<group>"; };
 		8DAA8A8927C662F30031C57E /* boj15684.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj15684.cpp; sourceTree = "<group>"; };
 		8DAA8A8B27C7B8B70031C57E /* boj18808.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj18808.cpp; sourceTree = "<group>"; };
+		8DAA8A8D27C9125F0031C57E /* boj2355.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2355.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +109,8 @@
 		8DAA8A2727A4145D0031C57E = {
 			isa = PBXGroup;
 			children = (
+				8DAA8A8D27C9125F0031C57E /* boj2355.cpp */,
+				8D9BBC8627CA651C006EC35B /* boj10173.cpp */,
 				8DAA8A8B27C7B8B70031C57E /* boj18808.cpp */,
 				8DAA8A8527C511E80031C57E /* boj13144.cpp */,
 				8DAA8A8727C5226C0031C57E /* boj13144-2.cpp */,
@@ -234,9 +240,11 @@
 				8DAA8A6E27B68B760031C57E /* boj5176.cpp in Sources */,
 				8DAA8A8227C223310031C57E /* boj17472.cpp in Sources */,
 				8DAA8A7427BA85E50031C57E /* boj1944.cpp in Sources */,
+				8D9BBC8727CA651C006EC35B /* boj10173.cpp in Sources */,
 				8DAA8A7227B92F190031C57E /* boj1535.cpp in Sources */,
 				8DAA8A3D27A4FF030031C57E /* boj1726.cpp in Sources */,
 				8DAA8A3B27A425ED0031C57E /* bojf9654.cpp in Sources */,
+				8DAA8A8E27C9125F0031C57E /* boj2355.cpp in Sources */,
 				8DAA8A5C27AEB2B10031C57E /* boj1600.cpp in Sources */,
 				8DAA8A6A27B40B940031C57E /* boj11557.cpp in Sources */,
 				8DAA8A6627B29C990031C57E /* boj1405.cpp in Sources */,
