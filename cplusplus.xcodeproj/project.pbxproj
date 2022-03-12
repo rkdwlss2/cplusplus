@@ -19,6 +19,9 @@
 		8D74532127DA31430041634D /* boj7682.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D74532027DA31430041634D /* boj7682.cpp */; };
 		8D74532327DA404D0041634D /* boj10992.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D74532227DA404D0041634D /* boj10992.cpp */; };
 		8D74532527DB797A0041634D /* boj2536.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D74532427DB797A0041634D /* boj2536.cpp */; };
+		8D74532727DC2FDB0041634D /* skTest1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D74532627DC2FDB0041634D /* skTest1.cpp */; };
+		8D74532927DC325D0041634D /* skTest2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D74532827DC325D0041634D /* skTest2.cpp */; };
+		8D74532B27DC3FA70041634D /* sktTest3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D74532A27DC3FA70041634D /* sktTest3.cpp */; };
 		8D9BBC8727CA651C006EC35B /* boj10173.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9BBC8627CA651C006EC35B /* boj10173.cpp */; };
 		8D9BBC8927CB6884006EC35B /* boj2011.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9BBC8827CB6884006EC35B /* boj2011.cpp */; };
 		8DAA8A3427A4145D0031C57E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A3327A4145D0031C57E /* main.cpp */; };
@@ -82,6 +85,9 @@
 		8D74532027DA31430041634D /* boj7682.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj7682.cpp; sourceTree = "<group>"; };
 		8D74532227DA404D0041634D /* boj10992.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj10992.cpp; sourceTree = "<group>"; };
 		8D74532427DB797A0041634D /* boj2536.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2536.cpp; sourceTree = "<group>"; };
+		8D74532627DC2FDB0041634D /* skTest1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = skTest1.cpp; sourceTree = "<group>"; };
+		8D74532827DC325D0041634D /* skTest2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = skTest2.cpp; sourceTree = "<group>"; };
+		8D74532A27DC3FA70041634D /* sktTest3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sktTest3.cpp; sourceTree = "<group>"; };
 		8D9BBC8627CA651C006EC35B /* boj10173.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj10173.cpp; sourceTree = "<group>"; };
 		8D9BBC8827CB6884006EC35B /* boj2011.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2011.cpp; sourceTree = "<group>"; };
 		8DAA8A3027A4145D0031C57E /* cplusplus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = cplusplus; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -135,8 +141,11 @@
 		8DAA8A2727A4145D0031C57E = {
 			isa = PBXGroup;
 			children = (
+				8D74532A27DC3FA70041634D /* sktTest3.cpp */,
+				8D74532827DC325D0041634D /* skTest2.cpp */,
 				8D74532227DA404D0041634D /* boj10992.cpp */,
 				8D74532427DB797A0041634D /* boj2536.cpp */,
+				8D74532627DC2FDB0041634D /* skTest1.cpp */,
 				8D74532027DA31430041634D /* boj7682.cpp */,
 				8D74531E27D8D87A0041634D /* boj2174.cpp */,
 				8D74531C27D8CBBC0041634D /* boj2302.cpp */,
@@ -268,6 +277,7 @@
 				8DAA8A8627C511E80031C57E /* boj13144.cpp in Sources */,
 				8DAA8A5A27AD67850031C57E /* boj2522.cpp in Sources */,
 				8D74532327DA404D0041634D /* boj10992.cpp in Sources */,
+				8D74532927DC325D0041634D /* skTest2.cpp in Sources */,
 				8DAA8A7E27BD36E10031C57E /* boj2931.cpp in Sources */,
 				8DAA8A7827BA98EF0031C57E /* boj10768.cpp in Sources */,
 				8DAA8A7627BA96740031C57E /* boj1944_2.cpp in Sources */,
@@ -298,7 +308,9 @@
 				8DAA8A5C27AEB2B10031C57E /* boj1600.cpp in Sources */,
 				8DAA8A6A27B40B940031C57E /* boj11557.cpp in Sources */,
 				8D74530F27CCFE880041634D /* boj15591.cpp in Sources */,
+				8D74532B27DC3FA70041634D /* sktTest3.cpp in Sources */,
 				8DAA8A6627B29C990031C57E /* boj1405.cpp in Sources */,
+				8D74532727DC2FDB0041634D /* skTest1.cpp in Sources */,
 				8D74532527DB797A0041634D /* boj2536.cpp in Sources */,
 				8DAA8A7C27BBEBE10031C57E /* boj14889.cpp in Sources */,
 				8DAA8A6827B3EE390031C57E /* boj1079.cpp in Sources */,
