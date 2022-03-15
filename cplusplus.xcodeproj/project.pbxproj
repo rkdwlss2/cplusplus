@@ -24,6 +24,7 @@
 		8D74532B27DC3FA70041634D /* sktTest3.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D74532A27DC3FA70041634D /* sktTest3.cpp */; };
 		8D74532D27DE268F0041634D /* boj14645.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D74532C27DE268F0041634D /* boj14645.cpp */; };
 		8D74532F27DF90EC0041634D /* boj18108.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D74532E27DF90EC0041634D /* boj18108.cpp */; };
+		8D74533127E0C2450041634D /* boj16236.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D74533027E0C2450041634D /* boj16236.cpp */; };
 		8D9BBC8727CA651C006EC35B /* boj10173.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9BBC8627CA651C006EC35B /* boj10173.cpp */; };
 		8D9BBC8927CB6884006EC35B /* boj2011.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9BBC8827CB6884006EC35B /* boj2011.cpp */; };
 		8DAA8A3427A4145D0031C57E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A3327A4145D0031C57E /* main.cpp */; };
@@ -92,6 +93,7 @@
 		8D74532A27DC3FA70041634D /* sktTest3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sktTest3.cpp; sourceTree = "<group>"; };
 		8D74532C27DE268F0041634D /* boj14645.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj14645.cpp; sourceTree = "<group>"; };
 		8D74532E27DF90EC0041634D /* boj18108.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj18108.cpp; sourceTree = "<group>"; };
+		8D74533027E0C2450041634D /* boj16236.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj16236.cpp; sourceTree = "<group>"; };
 		8D9BBC8627CA651C006EC35B /* boj10173.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj10173.cpp; sourceTree = "<group>"; };
 		8D9BBC8827CB6884006EC35B /* boj2011.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2011.cpp; sourceTree = "<group>"; };
 		8DAA8A3027A4145D0031C57E /* cplusplus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = cplusplus; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -147,6 +149,7 @@
 			children = (
 				8D74532C27DE268F0041634D /* boj14645.cpp */,
 				8D74532E27DF90EC0041634D /* boj18108.cpp */,
+				8D74533027E0C2450041634D /* boj16236.cpp */,
 				8D74532A27DC3FA70041634D /* sktTest3.cpp */,
 				8D74532827DC325D0041634D /* skTest2.cpp */,
 				8D74532227DA404D0041634D /* boj10992.cpp */,
@@ -313,6 +316,7 @@
 				8DAA8A3D27A4FF030031C57E /* boj1726.cpp in Sources */,
 				8DAA8A3B27A425ED0031C57E /* bojf9654.cpp in Sources */,
 				8DAA8A8E27C9125F0031C57E /* boj2355.cpp in Sources */,
+				8D74533127E0C2450041634D /* boj16236.cpp in Sources */,
 				8DAA8A5C27AEB2B10031C57E /* boj1600.cpp in Sources */,
 				8DAA8A6A27B40B940031C57E /* boj11557.cpp in Sources */,
 				8D74530F27CCFE880041634D /* boj15591.cpp in Sources */,
