@@ -37,6 +37,7 @@
 		8D74534527F335D80041634D /* boj23288.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D74534427F335D80041634D /* boj23288.cpp */; };
 		8D88F91027FC73E9003CEB55 /* boj20056.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D88F90F27FC73E9003CEB55 /* boj20056.cpp */; };
 		8D88F91227FF288C003CEB55 /* boj4470.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D88F91127FF288C003CEB55 /* boj4470.cpp */; };
+		8D88F9142802DCE5003CEB55 /* ctest.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D88F9132802DCE5003CEB55 /* ctest.cpp */; };
 		8D9BBC8727CA651C006EC35B /* boj10173.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9BBC8627CA651C006EC35B /* boj10173.cpp */; };
 		8D9BBC8927CB6884006EC35B /* boj2011.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D9BBC8827CB6884006EC35B /* boj2011.cpp */; };
 		8DAA8A3427A4145D0031C57E /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8DAA8A3327A4145D0031C57E /* main.cpp */; };
@@ -118,6 +119,7 @@
 		8D74534427F335D80041634D /* boj23288.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj23288.cpp; sourceTree = "<group>"; };
 		8D88F90F27FC73E9003CEB55 /* boj20056.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj20056.cpp; sourceTree = "<group>"; };
 		8D88F91127FF288C003CEB55 /* boj4470.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj4470.cpp; sourceTree = "<group>"; };
+		8D88F9132802DCE5003CEB55 /* ctest.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ctest.cpp; sourceTree = "<group>"; };
 		8D9BBC8627CA651C006EC35B /* boj10173.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj10173.cpp; sourceTree = "<group>"; };
 		8D9BBC8827CB6884006EC35B /* boj2011.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2011.cpp; sourceTree = "<group>"; };
 		8DAA8A3027A4145D0031C57E /* cplusplus */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = cplusplus; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -171,6 +173,7 @@
 		8DAA8A2727A4145D0031C57E = {
 			isa = PBXGroup;
 			children = (
+				8D88F9132802DCE5003CEB55 /* ctest.cpp */,
 				8D88F91127FF288C003CEB55 /* boj4470.cpp */,
 				8D88F90F27FC73E9003CEB55 /* boj20056.cpp */,
 				8D74533E27EB4F960041634D /* boj23289.cpp */,
@@ -363,6 +366,7 @@
 				8DAA8A5C27AEB2B10031C57E /* boj1600.cpp in Sources */,
 				8DAA8A6A27B40B940031C57E /* boj11557.cpp in Sources */,
 				8D74534327EDEF7A0041634D /* boj16916.cpp in Sources */,
+				8D88F9142802DCE5003CEB55 /* ctest.cpp in Sources */,
 				8D74530F27CCFE880041634D /* boj15591.cpp in Sources */,
 				8D74532B27DC3FA70041634D /* sktTest3.cpp in Sources */,
 				8DAA8A6627B29C990031C57E /* boj1405.cpp in Sources */,
