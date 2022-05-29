@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		8D076C6D283BCDB200F3AD32 /* boj2525.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D076C6C283BCDB200F3AD32 /* boj2525.cpp */; };
+		8D076C6F2843367F00F3AD32 /* boj1269.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D076C6E2843367F00F3AD32 /* boj1269.cpp */; };
 		8D3A71B8280DAE880094C7C1 /* boj5176-2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D3A71B7280DAE880094C7C1 /* boj5176-2.cpp */; };
 		8D3A71BA281833EA0094C7C1 /* boj1731.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D3A71B9281833EA0094C7C1 /* boj1731.cpp */; };
 		8D74530F27CCFE880041634D /* boj15591.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8D74530E27CCFE880041634D /* boj15591.cpp */; };
@@ -97,6 +98,7 @@
 
 /* Begin PBXFileReference section */
 		8D076C6C283BCDB200F3AD32 /* boj2525.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj2525.cpp; sourceTree = "<group>"; };
+		8D076C6E2843367F00F3AD32 /* boj1269.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1269.cpp; sourceTree = "<group>"; };
 		8D3A71B7280DAE880094C7C1 /* boj5176-2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "boj5176-2.cpp"; sourceTree = "<group>"; };
 		8D3A71B9281833EA0094C7C1 /* boj1731.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj1731.cpp; sourceTree = "<group>"; };
 		8D74530E27CCFE880041634D /* boj15591.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = boj15591.cpp; sourceTree = "<group>"; };
@@ -190,6 +192,7 @@
 				8D3A71B7280DAE880094C7C1 /* boj5176-2.cpp */,
 				8D3A71B9281833EA0094C7C1 /* boj1731.cpp */,
 				8D076C6C283BCDB200F3AD32 /* boj2525.cpp */,
+				8D076C6E2843367F00F3AD32 /* boj1269.cpp */,
 				8D88F91528046A8B003CEB55 /* boj16918.cpp */,
 				8D88F9172805C81D003CEB55 /* boj1408.cpp */,
 				8D88F91928071A7A003CEB55 /* bojdoduk.cpp */,
@@ -374,6 +377,7 @@
 				8D74531727D479CF0041634D /* boj17780.cpp in Sources */,
 				8D74531B27D785B80041634D /* boj110967.cpp in Sources */,
 				8DAA8A4127A7F8020031C57E /* boj1461.cpp in Sources */,
+				8D076C6F2843367F00F3AD32 /* boj1269.cpp in Sources */,
 				8D3A71B8280DAE880094C7C1 /* boj5176-2.cpp in Sources */,
 				8DAA8A6E27B68B760031C57E /* boj5176.cpp in Sources */,
 				8DAA8A8227C223310031C57E /* boj17472.cpp in Sources */,
