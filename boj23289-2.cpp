@@ -12,6 +12,8 @@ int board[21][21];
 
 int tBoard[21][21];
 
+int wall[21][21];
+
 int dx[8]={-1,-1,0,1,1,1,0,-1};
 int dy[8]={0,1,1,1,0,-1,-1,-1};
 
@@ -23,9 +25,9 @@ void isUp(int x,int y,int dir){
     int bDir = (4+dir)%8;
     int bUpDir = (3+dir)%8;
     int bDownDir = (5+dir)%8;
-    int bDirValue = tBoard[dx[bDir]][dy[bDir]];
-    int bUpDirValue = tBoard[dx[bUpDir]][dy[bUpDir]];
-    int bDownDirValue = tBoard[dx[bDownDir]][dy[bDownDir]];
+    int bDirValue = tBoard[x+dx[bDir]][y+dy[bDir]];
+    int bUpDirValue = tBoard[x+dx[bUpDir]][y+dy[bUpDir]];
+    int bDownDirValue = tBoard[x+dx[bDownDir]][y+dy[bDownDir]];
     if (bDirValue>0){
         tBoard[x][y]=bDirValue-1;
     }
@@ -37,22 +39,26 @@ void isUp(int x,int y,int dir){
     }
 }
 
-
-
 void blow(int x,int y,int dir){
     tBoard[x][y]=5;
-    
-    for (int i= 1 ; i<5;i++){
-        for (int j = 0;j<m;j++){
-//            prevUp = tBoard[
-            if (tBoard[i][j]>0){
-                
-            }
+    for (int j=y;j<y+5&&y<m;j++){
+        for (int i=0;i<n;i++){
+            isUp(i,j,dir);
         }
     }
 }
 
+
+// bit 연산으로 풀어야 할것 같은 느낌적인 느낌
+void makeWall(int x,int y,int dir){
+    
+}
+
+
 int main(){
     ios::sync_with_stdio(0);
     cin.tie(0);
+    n=6,m=9;
+    blow(4,1,2);
+    cout<<"hi"<<'\n';
 }
